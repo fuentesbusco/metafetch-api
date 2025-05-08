@@ -1,10 +1,10 @@
 {
   "name": "metafetch-api",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "Extract metadata from any URL and evaluate SEO quality with a simple REST API.",
+  "author": "Daniel Fuentes Busco <contact@atelierbusco.com>",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
